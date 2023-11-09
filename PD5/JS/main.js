@@ -8,10 +8,8 @@ console.log("BIGint Numeris: ", myBigInt);
 let myString = "Noriu BMW M5 F90";
 console.log("String: ", myString);
 // 4.
-let isTrue = true;
-let isFalse = false;
-console.log("Tiesa: ", isTrue);
-console.log("Netiesa: ", isFalse);
+let userBoolean = "Boolean";
+console.log(userBoolean);
 // 5.
 let myUndefined;
 console.log("Undefined: ", myUndefined);

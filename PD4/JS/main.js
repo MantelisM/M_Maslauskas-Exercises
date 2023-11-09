@@ -13,4 +13,4 @@ petAge = 6;
 // 5.
 const buildingAddress = "Kalvariju 159.";
 // 6.
-console.log("Building Address: " + buildingAddress);
+console.log("Building Address: ", buildingAddress);
